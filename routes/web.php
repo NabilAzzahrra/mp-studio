@@ -7,6 +7,13 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/photography', function () {
+    return view('photography');
+});
+Route::get('/videography', function () {
+    return view('videography');
+});
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
