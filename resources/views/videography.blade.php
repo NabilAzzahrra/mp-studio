@@ -62,8 +62,10 @@
     {{-- MAIN CONTENT --}}
     <main class="mt-12 mb-20">
         <div class="flex items-start flex-1">
-            <div class="relative w-60 group">
-                <img src="{{ asset('img/photography/1.jpeg') }}" class="w-60">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/xAM4CgblQLU" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
@@ -72,8 +74,11 @@
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative group w-60">
-                <img src="{{ asset('img/photography/2.jpeg') }}" class="w-full h-auto block">
+
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/_6sZobZkNv0" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
@@ -82,8 +87,10 @@
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group">
-                <img src="{{ asset('img/photography/3.jpeg') }}" class="w-60">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/xQknAlRnaM4" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
@@ -92,8 +99,10 @@
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group">
-                <img src="{{ asset('img/photography/4.jpeg') }}" class="w-60">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/7aKsPwH1iss" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
@@ -102,8 +111,10 @@
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group">
-                <img src="{{ asset('img/photography/5.jpeg') }}" class="w-60">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/8u1LGaJ2fyA" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
@@ -112,8 +123,10 @@
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group">
-                <img src="{{ asset('img/photography/6.jpeg') }}" class="w-60">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/Yv1q7BclU0M" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
@@ -124,249 +137,301 @@
             </div>
         </div>
         <div class="flex items-start flex-1">
-            <div class="relative group w-60">
-                <img src="{{ asset('img/photography/7.jpeg') }}" class="w-full h-auto block">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/mZ_WLcJXGNc" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Nabila Azzahra - MP01</div>
+                    <div class="font-semibold">Harry Vaughan - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group -mt-32">
-                <img src="{{ asset('img/photography/8.jpeg') }}" class="w-60">
+
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/qsUJCebuKYs" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Arya Mohan - MP03</div>
+                    <div class="font-semibold">Flavio Zaviera - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group">
-                <img src="{{ asset('img/photography/9.jpeg') }}" class="w-60">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/zuZgbfGxuc0" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Fattah Syach - MP01</div>
+                    <div class="font-semibold">William Roberts - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group -mt-10">
-                <img src="{{ asset('img/photography/10.jpeg') }}" class="w-60">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/-rCD-ayNRhs" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Aqeela Calista - MP01</div>
+                    <div class="font-semibold">Ciara Brosnan - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group">
-                <img src="{{ asset('img/photography/11.jpeg') }}" class="w-60">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/O2U5Rhp2HDE" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Nicole Rossi - MP01</div>
+                    <div class="font-semibold">Cantika Putri Kirana - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group -mt-32">
-                <img src="{{ asset('img/photography/12.jpeg') }}" class="w-60">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/HW_mjS9Pq5E" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Raisa Marie - MP01</div>
-                    <div class="text-sm">PHOTOGRAPHY</div>
-                </div>
-            </div>
-        </div>
-        <div class="flex items-start flex-1">
-            <div class="relative group w-60 -mt-10">
-                <img src="{{ asset('img/photography/13.jpeg') }}" class="w-full h-auto block">
-
-                <!-- Overlay teks -->
-                <div
-                    class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Noel Londok - MP01</div>
-                    <div class="text-sm">PHOTOGRAPHY</div>
-                </div>
-            </div>
-            <div class="relative w-60 group -mt-32">
-                <img src="{{ asset('img/photography/14.jpeg') }}" class="w-60">
-
-                <!-- Overlay teks -->
-                <div
-                    class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Gema Vyandra - MP01</div>
-                    <div class="text-sm">PHOTOGRAPHY</div>
-                </div>
-            </div>
-            <div class="relative w-60 group -mt-10">
-                <img src="{{ asset('img/photography/15.jpeg') }}" class="w-60">
-
-                <!-- Overlay teks -->
-                <div
-                    class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Jefan Nathanio - MP01</div>
-                    <div class="text-sm">PHOTOGRAPHY</div>
-                </div>
-            </div>
-            <div class="relative w-60 group -mt-20">
-                <img src="{{ asset('img/photography/16.jpeg') }}" class="w-60">
-
-                <!-- Overlay teks -->
-                <div
-                    class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Sandrinna Michelle - MP01</div>
-                    <div class="text-sm">PHOTOGRAPHY</div>
-                </div>
-            </div>
-            <div class="relative w-60 group">
-                <img src="{{ asset('img/photography/17.jpeg') }}" class="w-60">
-
-                <!-- Overlay teks -->
-                <div
-                    class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Luz Victoria - MP01</div>
-                    <div class="text-sm">PHOTOGRAPHY</div>
-                </div>
-            </div>
-            <div class="relative w-60 group -mt-44">
-                <img src="{{ asset('img/photography/18.jpeg') }}" class="w-60">
-
-                <!-- Overlay teks -->
-                <div
-                    class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Jolina - MP01</div>
+                    <div class="font-semibold">Yoona Gimenez - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
         </div>
         <div class="flex items-start flex-1">
-            <div class="relative group w-60 -mt-32">
-                <img src="{{ asset('img/photography/19.jpeg') }}" class="w-full h-auto block">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/tanc_8AXAkg" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Vania Priscilla - MP01</div>
+                    <div class="font-semibold">Harry Vaughan - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group -mt-36">
-                <img src="{{ asset('img/photography/20.jpeg') }}" class="w-60">
+
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/aE7a5X4KgDc" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Electra Leslie - MP01</div>
+                    <div class="font-semibold">Flavio Zaviera - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group -mt-20">
-                <img src="{{ asset('img/photography/21.jpeg') }}" class="w-60">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/Vw7ah7npm7I" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Montserrat Gizelle - MP01</div>
+                    <div class="font-semibold">William Roberts - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group -mt-44">
-                <img src="{{ asset('img/photography/22.jpeg') }}" class="w-60">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/M6TLMVVgdOk" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Najwa Shakira - MP01</div>
+                    <div class="font-semibold">Ciara Brosnan - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group">
-                <img src="{{ asset('img/photography/23.jpeg') }}" class="w-60">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/xG-STc-JDxk" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Yudetra Atala Jinan - MP01</div>
+                    <div class="font-semibold">Cantika Putri Kirana - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group -mt-48">
-                <img src="{{ asset('img/photography/24.jpeg') }}" class="w-60">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/RwPQKHxnAdM" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Andro Trinanda - MP01</div>
+                    <div class="font-semibold">Yoona Gimenez - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
         </div>
         <div class="flex items-start flex-1">
-            <div class="relative group w-60 -mt-80">
-                <img src="{{ asset('img/photography/25.jpeg') }}" class="w-full h-auto block">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/e2n4oQZs6nM" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Audy Maulidyna - MP01</div>
+                    <div class="font-semibold">Harry Vaughan - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group -mt-[350px]">
-                <img src="{{ asset('img/photography/26.jpeg') }}" class="w-60">
+
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/umaUtG8THkQ" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Siffa Aditya - MP01</div>
+                    <div class="font-semibold">Flavio Zaviera - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group -mt-[287px]">
-                <img src="{{ asset('img/photography/27.jpeg') }}" class="w-60">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/AcPnTEC5Z6c" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Dava Nurs - MP01</div>
+                    <div class="font-semibold">William Roberts - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group -mt-[287px]">
-                <img src="{{ asset('img/photography/28.jpeg') }}" class="w-60">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/ojFrPxzrtOY" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Diva Nurs - MP01</div>
+                    <div class="font-semibold">Ciara Brosnan - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group">
-                <img src="{{ asset('img/photography/29.jpeg') }}" class="w-60">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/ojFrPxzrtOY" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Egidius Edit - MP01</div>
+                    <div class="font-semibold">Cantika Putri Kirana - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>
-            <div class="relative w-60 group -mt-[400px]">
-                <img src="{{ asset('img/photography/30.jpeg') }}" class="w-60">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/RwPQKHxnAdM" frameborder="0"
+                    allowfullscreen>
+                </iframe>
 
                 <!-- Overlay teks -->
                 <div
                     class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                    <div class="font-semibold">Alfariz - MP01</div>
+                    <div class="font-semibold">Yoona Gimenez - MP01</div>
+                    <div class="text-sm">PHOTOGRAPHY</div>
+                </div>
+            </div>
+        </div>
+        <div class="flex items-start flex-1">
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/e2n4oQZs6nM" frameborder="0"
+                    allowfullscreen>
+                </iframe>
+
+                <!-- Overlay teks -->
+                <div
+                    class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                    <div class="font-semibold">Harry Vaughan - MP01</div>
+                    <div class="text-sm">PHOTOGRAPHY</div>
+                </div>
+            </div>
+
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/umaUtG8THkQ" frameborder="0"
+                    allowfullscreen>
+                </iframe>
+
+                <!-- Overlay teks -->
+                <div
+                    class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                    <div class="font-semibold">Flavio Zaviera - MP01</div>
+                    <div class="text-sm">PHOTOGRAPHY</div>
+                </div>
+            </div>
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/AcPnTEC5Z6c" frameborder="0"
+                    allowfullscreen>
+                </iframe>
+
+                <!-- Overlay teks -->
+                <div
+                    class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                    <div class="font-semibold">William Roberts - MP01</div>
+                    <div class="text-sm">PHOTOGRAPHY</div>
+                </div>
+            </div>
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/ojFrPxzrtOY" frameborder="0"
+                    allowfullscreen>
+                </iframe>
+
+                <!-- Overlay teks -->
+                <div
+                    class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                    <div class="font-semibold">Ciara Brosnan - MP01</div>
+                    <div class="text-sm">PHOTOGRAPHY</div>
+                </div>
+            </div>
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/ojFrPxzrtOY" frameborder="0"
+                    allowfullscreen>
+                </iframe>
+
+                <!-- Overlay teks -->
+                <div
+                    class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                    <div class="font-semibold">Cantika Putri Kirana - MP01</div>
+                    <div class="text-sm">PHOTOGRAPHY</div>
+                </div>
+            </div>
+            <div class="relative inline-block group w-60">
+                <iframe class="block w-full h-96" src="https://www.youtube.com/embed/RwPQKHxnAdM" frameborder="0"
+                    allowfullscreen>
+                </iframe>
+
+                <!-- Overlay teks -->
+                <div
+                    class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                    <div class="font-semibold">Yoona Gimenez - MP01</div>
                     <div class="text-sm">PHOTOGRAPHY</div>
                 </div>
             </div>

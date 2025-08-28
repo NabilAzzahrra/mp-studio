@@ -13,6 +13,9 @@ Route::get('/photography', function () {
 Route::get('/videography', function () {
     return view('videography');
 });
+Route::get('/editing', function () {
+    return view('editing');
+});
 
 Route::get('/dashboard', function () {
     return view('dashboard');
